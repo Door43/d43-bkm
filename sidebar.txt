@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bkm:home|Door43 (bkm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bkm|d43-bkm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bkm/archive/master.zip|d43-bkm.zip]]
+
+**Recent Changes**
+{{changes>ns = bkm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bkm|Ethnologue data]]
+
