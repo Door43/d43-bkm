@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/bkm|Ethnologue data]]
 
-
 **Resources**
 
   * [[bkm:obs|Open Bible Stories (bkm)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:bkm:obs:status}}
